@@ -1,0 +1,10 @@
+{
+    "require": {
+        "jaeger/querylist": "V3.2.1",
+        "jaeger/querylist-ext-dimage": "^1.1",
+        "jaeger/querylist-ext-multi": "^1.0",
+        "illuminate/database": "^8.82",
+        "symfony/var-dumper": "^5.4",
+        "illuminate/pagination": "^8.82"
+    }
+}
